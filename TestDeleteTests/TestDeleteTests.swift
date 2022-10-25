@@ -26,6 +26,10 @@ final class TestDeleteTests: XCTestCase {
         // Mark your test async to allow awaiting for asynchronous code to complete. Check the results with assertions afterwards.
     }
 
+    
+    func test1GreatherThan2() {
+        XCTAssertFalse(1>2, "1 must be greater than 2")
+    }
     func testPerformanceExample() throws {
         // This is an example of a performance test case.
         self.measure {

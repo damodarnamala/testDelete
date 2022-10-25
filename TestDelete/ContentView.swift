@@ -1,9 +1,7 @@
 //
 //  ContentView.swift
 //  TestDelete
-//
-//  Created by Damodar Namala on 25/10/22.
-//
+
 
 import SwiftUI
 
